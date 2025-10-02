@@ -16,11 +16,11 @@ INSERT INTO siswa (nama, umur, jurusan) VALUES
 ('Citra', 16, 'IPA'),
 ('Dewi', 17, 'Bahasa'),
 ('Eka', 16, 'IPS'),
-('Gama', 17, 'Fisika');
+('Gama', 20, 'Sistem Informasi');
 
 INSERT INTO nilai (siswa_id, mata_pelajaran, nilai) VALUES
 (1, 'Matematika', 85),
-(1, 'Fisika', 90),
+(1, 'Sistem Informasi', 90),
 (2, 'Ekonomi', 88),
 (2, 'Sejarah', 82),
 (3, 'Biologi', 92),
